@@ -8,6 +8,11 @@ $ composer create-project skyline-project/web-application -sdev ./my-skyline-app
 ````
 
 This will install everything that Skyline CMS needs to deliver a compiled web application to clients.  
+Developing your project typing:
+````bin
+$ cd ./my-skyline-application
+$ php -S localhost:5555 -t ./Public ./Public/skyline.php
+````
 
 #### Compilation
 Skyline CMS runs from a compiled application to increase performance and while development detect possible bugs.  

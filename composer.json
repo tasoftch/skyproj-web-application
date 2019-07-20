@@ -1,6 +1,6 @@
 {
   "name": "skyline-project/web-application",
-  "description": "Basic Skyline CMS Application. Includes all packages to run your web application.",
+  "description": "Basic Skyline CMS Application. Includes all packages to run your application.",
   "minimum-stability": "dev",
   "license": "BSD-3-Clause",
   "authors": [
