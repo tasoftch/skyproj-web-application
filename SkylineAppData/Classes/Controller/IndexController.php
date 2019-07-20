@@ -30,5 +30,8 @@ class IndexController extends AbstractActionController
 {
     public function indexAction() {
 
+        $this->renderTemplate("main", [
+            "Content" => 'home'
+        ]);
     }
 }
