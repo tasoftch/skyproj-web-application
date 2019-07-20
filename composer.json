@@ -1,0 +1,32 @@
+{
+  "name": "skyline-project/web-application",
+  "description": "Basic Skyline CMS Application. Includes all packages to run your web application.",
+  "minimum-stability": "dev",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Thomas Abplanalp",
+      "email": "info@tasoft.ch"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Application\\": "SkylineAppData/Classes"
+    }
+  },
+  "require": {
+    "php": "^7.2",
+    "skyline/core-application": "dev-master",
+    "skyline/html-render": "dev-master"
+  },
+  "require-dev": {
+    "skyline/compiler": "dev-master",
+    "skyline/binary": "dev-master"
+  },
+  "scripts": {
+    "compile:live": "php vendor/bin/skyline.phar compile --project live-project.xml --no-interaction",
+    "compile": "php vendor/bin/skyline.phar compile --project dev-project.xml --dev --no-interaction --zero",
+    "post-create-project-cmd": "@compile",
+    "post-update-cmd": "@compile"
+  }
+}
