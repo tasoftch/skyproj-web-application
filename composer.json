@@ -26,6 +26,6 @@
   "scripts": {
     "compile:live": "php vendor/bin/skyline.phar compile --project live-project.xml --no-interaction",
     "compile": "php vendor/bin/skyline.phar compile --project dev-project.xml --dev --no-interaction --zero",
-    "post-update-cmd": "@compile"
+    "post-create-project-cmd": "@compile"
   }
 }
