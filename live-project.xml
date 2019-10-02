@@ -39,6 +39,7 @@ This project file will be loaded by the compiler to preprocess the application
         <dir type="uconfig">SkylineAppData/Config</dir>      <!-- Your configuration files -->
         <dir type="vendor">vendor</dir>                     <!-- vendor packages -->
         <dir type="classes">SkylineAppData/Classes</dir>
+        <dir type="classes">vendor/skyline</dir>
         <dir type="templates">vendor/skyline</dir>
         <dir type="templates">SkylineAppData/Templates</dir>
     </searchPaths>
