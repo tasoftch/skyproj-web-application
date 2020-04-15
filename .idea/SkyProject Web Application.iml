@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../skyline-project-web-app">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="TASoft\DI" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/leafo/scssphp" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/skyline/binary" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/skyline/compiler" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/skyline/core-application" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/skyline/direct-components" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/skyline/html-elements" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/skyline/html-render" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/skyline/kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/skyline/render" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/skyline/router" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/tasoft/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/tasoft/config" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/tasoft/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/tasoft/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/tasoft/method-signature" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/tasoft/service-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/../skyline-project-web-app/vendor/tasoft/tools-path" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

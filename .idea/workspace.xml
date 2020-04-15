@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd74687d-4ec4-488e-9a97-fc8dd896d504" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="/usr/local/bin/composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="268042c7-b960-4119-be4a-7eee092a8844" name="localhost" port="5555" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2 (XDebug)">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/collection" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/service-manager" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/config" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/method-signature" />
+      <path value="$PROJECT_DIR$/vendor/skyline/binary" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/tools-path" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/skyline/compiler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/skyline/core-application" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/skyline/render" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/skyline/router" />
+      <path value="$PROJECT_DIR$/vendor/skyline/kernel" />
+      <path value="$PROJECT_DIR$/vendor/skyline/compiler" />
+      <path value="$PROJECT_DIR$/vendor/skyline/core-application" />
+      <path value="$PROJECT_DIR$/vendor/skyline/render" />
+      <path value="$PROJECT_DIR$/vendor/skyline/router" />
+      <path value="$PROJECT_DIR$/vendor/skyline/kernel" />
+      <path value="$PROJECT_DIR$/vendor/skyline/direct-components" />
+      <path value="$PROJECT_DIR$/vendor/skyline/html-elements" />
+      <path value="$PROJECT_DIR$/vendor/skyline/html-render" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/collection" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/service-manager" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/config" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/method-signature" />
+      <path value="$PROJECT_DIR$/vendor/skyline/binary" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/tools-path" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/mime" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1aaBbPYA91uFylmOds5wlMN74M3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SkylineAppData/Templates/Error" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SkylineAppData/Templates/Error" />
+      <recent name="$PROJECT_DIR$/SkylineAppData" />
+      <recent name="$PROJECT_DIR$/SkylineAppData/Templates" />
+      <recent name="$PROJECT_DIR$/SkylineAppData/Classes/Controller" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.Test Web Server">
+    <configuration name="Test Web Server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080" router_script="$PROJECT_DIR$/../../../TASoft/Web-Projekte/Skyline-CMS/Public/skyline.php" use_router_script="true">
+      <CommandLine workingDirectory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Compile Development" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/vendor/skyline/binary/dist/skyline.phar" scriptParameters="compile --project dev-project.xml --dev --no-interaction --zero">
+      <CommandLine workingDirectory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Compile Production" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/vendor/skyline/binary/dist/skyline.phar" scriptParameters="compile --project live-project.xml --no-interaction">
+      <CommandLine workingDirectory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Built-in Web Server.Test Web Server" />
+      <item itemvalue="PHP Script.Compile Development" />
+      <item itemvalue="PHP Script.Compile Production" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd74687d-4ec4-488e-9a97-fc8dd896d504" name="Default Changelist" comment="" />
+      <created>1554740082768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554740082768</updated>
+      <workItem from="1554740084262" duration="1349000" />
+      <workItem from="1563625608436" duration="4952000" />
+      <workItem from="1563700671516" duration="63000" />
+      <workItem from="1563700763319" duration="86000" />
+      <workItem from="1569950619440" duration="1530000" />
+      <workItem from="1572534627329" duration="254000" />
+      <workItem from="1586963895766" duration="546000" />
+      <workItem from="1586964485023" duration="156000" />
+      <workItem from="1586965000535" duration="304000" />
+      <workItem from="1586965712295" duration="31000" />
+      <workItem from="1586965809470" duration="229000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1563627554042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563627554042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1563627845614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563627845614</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1563628858505</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563628858505</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <created>1563629478964</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563629478964</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <created>1563630274365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563630274365</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Commit">
+      <created>1563630396086</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563630396086</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial Commit">
+      <created>1563700835908</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563700835908</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial Commit">
+      <created>1569997381697</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569997381697</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial Commit">
+      <created>1586964337118</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586964337118</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial Commit">
+      <created>1586965109483</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586965109483</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial Commit">
+      <created>1586965727106</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586965727106</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="955" y="379" key="#PHP" timestamp="1586965134382">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="955" y="379" key="#PHP/0.23.2560.1413@0.23.2560.1413" timestamp="1586965134382" />
+    <state x="744" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586966038262">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="744" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1413@0.23.2560.1413" timestamp="1586966038262" />
+    <state x="893" y="298" key="CommitChangelistDialog2" timestamp="1586965726750">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="893" y="298" key="CommitChangelistDialog2/0.23.2560.1413@0.23.2560.1413" timestamp="1586965726750" />
+    <state x="789" y="368" key="SettingsEditor" timestamp="1586965278700">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="789" y="368" key="SettingsEditor/0.23.2560.1413@0.23.2560.1413" timestamp="1586965278700" />
+    <state x="966" y="469" key="Vcs.Push.Dialog.v2" timestamp="1586965731061">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="966" y="469" key="Vcs.Push.Dialog.v2/0.23.2560.1413@0.23.2560.1413" timestamp="1586965731061" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>BSD-3-New</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
