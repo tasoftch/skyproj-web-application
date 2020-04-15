@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd74687d-4ec4-488e-9a97-fc8dd896d504" name="Default Changelist" comment="" />
+    <list default="true" id="bd74687d-4ec4-488e-9a97-fc8dd896d504" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Public/skyline.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +119,7 @@
     </key>
   </component>
   <component name="RunManager" selected="PHP Built-in Web Server.Test Web Server">
-    <configuration name="Test Web Server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080" router_script="$PROJECT_DIR$/../../../TASoft/Web-Projekte/Skyline-CMS/Public/skyline.php" use_router_script="true">
+    <configuration name="Test Web Server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080" router_script="$PROJECT_DIR$/Public/skyline.php" use_router_script="true">
       <CommandLine workingDirectory="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -135,7 +157,9 @@
       <workItem from="1586964485023" duration="156000" />
       <workItem from="1586965000535" duration="304000" />
       <workItem from="1586965712295" duration="31000" />
-      <workItem from="1586965809470" duration="229000" />
+      <workItem from="1586965809470" duration="411000" />
+      <workItem from="1586969435596" duration="2000" />
+      <workItem from="1586969844330" duration="59000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1563627554042</created>
@@ -214,11 +238,30 @@
       <option name="project" value="LOCAL" />
       <updated>1586965727106</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Initial Commit">
+      <created>1586966148151</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1586966148152</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -233,22 +276,26 @@
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
     <state x="955" y="379" key="#PHP/0.23.2560.1413@0.23.2560.1413" timestamp="1586965134382" />
-    <state x="744" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586966038262">
+    <state x="744" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586969901506">
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
-    <state x="744" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1413@0.23.2560.1413" timestamp="1586966038262" />
-    <state x="893" y="298" key="CommitChangelistDialog2" timestamp="1586965726750">
+    <state x="744" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1413@0.23.2560.1413" timestamp="1586969901506" />
+    <state x="893" y="298" key="CommitChangelistDialog2" timestamp="1586966147781">
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
-    <state x="893" y="298" key="CommitChangelistDialog2/0.23.2560.1413@0.23.2560.1413" timestamp="1586965726750" />
+    <state x="893" y="298" key="CommitChangelistDialog2/0.23.2560.1413@0.23.2560.1413" timestamp="1586966147781" />
+    <state x="1101" y="660" key="NewPhpFileDialog" timestamp="1586969871892">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="1101" y="660" key="NewPhpFileDialog/0.23.2560.1413@0.23.2560.1413" timestamp="1586969871892" />
     <state x="789" y="368" key="SettingsEditor" timestamp="1586965278700">
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
     <state x="789" y="368" key="SettingsEditor/0.23.2560.1413@0.23.2560.1413" timestamp="1586965278700" />
-    <state x="966" y="469" key="Vcs.Push.Dialog.v2" timestamp="1586965731061">
+    <state x="966" y="469" key="Vcs.Push.Dialog.v2" timestamp="1586966153171">
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
-    <state x="966" y="469" key="Vcs.Push.Dialog.v2/0.23.2560.1413@0.23.2560.1413" timestamp="1586965731061" />
+    <state x="966" y="469" key="Vcs.Push.Dialog.v2/0.23.2560.1413@0.23.2560.1413" timestamp="1586966153171" />
   </component>
   <component name="masterDetails">
     <states>
