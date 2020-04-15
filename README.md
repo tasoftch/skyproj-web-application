@@ -11,7 +11,7 @@ This will install everything that Skyline CMS needs to deliver a compiled web ap
 Run your project local just type:
 ````bin
 $ cd ./my-skyline-application
-$ php -S localhost:5555 -t ./Public ./Public/skyline.php
+$ php -S localhost:5555 Public/skyline.php
 ````
 
 #### Compilation
